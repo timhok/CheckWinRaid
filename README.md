@@ -5,10 +5,10 @@ Basically, DISKPART parser.
 
 [Download exe binary](https://github.com/timhok/CheckWinRaid/releases/download/v1/CheckWinRaid.exe)
 
-[Source code](https://github.com/timhok/CheckWinRaid/blob/master/CheckWinRaid/Module1.vb)
+[Source code](https://github.com/timhok/CheckWinRaid/releases/download/v1/CheckWinRaid.zip)
 
 ## Usage:
-`CheckWinRaid.exe` must be run with administrator privileges (due to DISKPART usage)
+`CheckWinRaid.exe` must be run with administrator privileges (due to DISKPART usage) and [list_volume](https://github.com/timhok/CheckWinRaid/blob/master/list_volume) file placed in current working directory
 #### Output:
 `<Volume letter> <Boolean status>`
 #### Example output:
