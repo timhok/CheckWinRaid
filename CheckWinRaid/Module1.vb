@@ -15,7 +15,7 @@ Module Module1
         Select Case sArg
             Case "-h"
                 Console.WriteLine(String.Format("{0} {1}.{2}", My.Application.Info.AssemblyName, My.Application.Info.Version.Major, My.Application.Info.Version.Minor))
-                Console.WriteLine(String.Format("Copyright (C) {0} by {1}, {2}", "2017-03", "Timhok", "http://github.com/"))
+                Console.WriteLine(String.Format("Copyright (C) {0} by {1}, {2}", "2017-03", "Timhok", "https://github.com/timhok/CheckWinRaid"))
                 Console.WriteLine()
                 Console.WriteLine(String.Format("Usage: {0} [option]", "checkwinraid.exe"))
                 Console.WriteLine()
