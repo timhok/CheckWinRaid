@@ -3,9 +3,9 @@ Commandline tool to check windows built-in software raid.
 
 Basically, DISKPART parser.
 
-[Download exe binary](https://github.com/timhok/CheckWinRaid/releases/download/v1/CheckWinRaid.exe)
+[Download exe binary](https://github.com/timhok/CheckWinRaid/releases/download/v1/CheckWinRaid.zip)
 
-[Source code](https://github.com/timhok/CheckWinRaid/releases/download/v1/CheckWinRaid.zip)
+[Source code in one module](https://github.com/timhok/CheckWinRaid/blob/master/CheckWinRaid/Module1.vb)
 
 ## Usage:
 `CheckWinRaid.exe` must be run with administrator privileges (due to DISKPART usage) and [list_volume](https://github.com/timhok/CheckWinRaid/blob/master/list_volume) file placed in current working directory
